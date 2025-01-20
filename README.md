@@ -1,4 +1,7 @@
 
+# test star history
+[![Star History Chart](https://api.star-history.com/svg?repos=jquery/jquery&type=Date)](https://star-history.com/#jquery/jquery&Date)
+
 ![hamburger](docs/assets/hamburger.svg)
 ![hamburger](docs/assets/hamburger.svg)
 ![hamburger](docs/assets/hamburger.svg)
