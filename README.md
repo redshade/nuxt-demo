@@ -1,7 +1,9 @@
 # test link
-[bilibili](https://space.bilibili.com/3546576519694945?type=%E6%80%9D%E8%80%83%E7%9D%80&a=00#id111)
+[bilibili](https://space.bilibili.com/3546576519694945?type=思考着&a=00#id111)
 
-<a href="https://space.bilibili.com/3546576519694945?type=%E6%80%9D%E8%80%83%E7%9D%80&a=00#id111">
+<a href="https://space.bilibili.com/3546576519694945?type=%E6%80%9D%E8%80%83%E7%9D%80&a=00#id111">bilibli href</a>
+
+https://space.bilibili.com/3546576519694945?type=思考着&a=00#id111
 
 
 # test star history
